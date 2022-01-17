@@ -1,0 +1,13 @@
+C:\Users\ahmad\source\repos\nxopen project (duplica)\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\ahmad\source\repos\nxopen project (duplica)\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\ahmad\source\repos\nxopen project (duplica)\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\ahmad\source\repos\nxopen project (duplica)\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\ahmad\source\repos\nxopen project (duplica)\WindowsApp2\obj\Debug\nxopen project (duplica).vbproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\nxopen project (duplica)\WindowsApp2\obj\Debug\nxopen project (duplica).vbproj.ResolveComReference.cache
+C:\Users\ahmad\source\repos\nxopen project (duplica)\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\ahmad\source\repos\nxopen project (duplica)\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\ahmad\source\repos\nxopen project (duplica)\WindowsApp2\obj\Debug\nxopen project (duplica).vbproj.GenerateResource.cache
+C:\Users\ahmad\source\repos\nxopen project (duplica)\WindowsApp2\obj\Debug\nxopen project (duplica).vbproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\nxopen project (duplica)\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\ahmad\source\repos\nxopen project (duplica)\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\ahmad\source\repos\nxopen project (duplica)\WindowsApp2\obj\Debug\WindowsApp2.pdb
